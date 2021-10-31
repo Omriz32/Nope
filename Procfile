@@ -1,1 +1,1 @@
-web: abbalbum app:app.py
+web: ginicorn main:app
